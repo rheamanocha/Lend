@@ -20,6 +20,7 @@ class LendTableViewCell: UITableViewCell {
     
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var dateLabel: UILabel!
+   // @IBOutlet weak var img: UIImageView!
     
     var note: Note? {
         didSet {

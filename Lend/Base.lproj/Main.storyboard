@@ -37,6 +37,7 @@
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="dateLabel" destination="ok3-lU-uXs" id="giL-i2-6BQ"/>
+                                    <outlet property="img" destination="xo0-dU-7HC" id="Pud-bh-ltg"/>
                                     <outlet property="titleLabel" destination="TcX-zN-Dcl" id="WNy-vv-6ZG"/>
                                 </connections>
                             </tableViewCell>
